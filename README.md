@@ -2,8 +2,7 @@
 
 ## Overview
 
-Eliza is a basic virtual therapist chatbot designed to engage in conversation and provide a supportive environment for users. It is inspired by the original Eliza program, developed in the 1960s.
-
+Eliza is a basic virtual therapist chatbot designed to engage in conversation and provide a supportive environment for users. 
 ## Usage
 
 1. Installation:
