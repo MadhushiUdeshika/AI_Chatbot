@@ -17,14 +17,14 @@ Eliza is a basic virtual therapist chatbot designed to engage in conversation an
 ## Example Conversations
 
 ```
-User: Hello, Eliza.
-Eliza: Hello! How can I help you today?
+User: Hi
+Eliza: Hello there. Tell me how are you feeling today?
 
-User: I'm feeling stressed.
-Eliza: I'm here to listen. What's on your mind?
+User: I am so stressed.
+Eliza: I am sorry to hear that. What is the reason behind this?
 
-User: I had a tough day at work.
-Eliza: Work can be challenging. Tell me more about it.
+User: exams
+Eliza: I'm listening. Tell me more.
 ```
 
 ## Customization
